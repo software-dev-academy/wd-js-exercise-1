@@ -1,0 +1,4 @@
+/*
+  In this file you can write your javascript code. Make sure the DOM is loaded before executing your custom code by
+  attaching an event listener to the document.
+ */
