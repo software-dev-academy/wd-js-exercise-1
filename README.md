@@ -4,7 +4,7 @@
 
 ### 1) Dom -> Tree
 
-Your task is to convert the HTML file `preparation/part1/DOMToTree.html` to a tree similar to the one found 
+Your task is to convert the HTML file `preparation/part1/document.html` to a DOM-tree similar to the one found 
 [here on W3Schools](https://www.w3schools.com/js/js_htmldom.asp).
  
  *Some tips:*
@@ -15,7 +15,7 @@ Your task is to convert the HTML file `preparation/part1/DOMToTree.html` to a tr
 ### 2) Tree -> DOM
 
 As you've managed to convert the HTML to a DOM-tree, you should now be able to do the reverse. Try converting the tree 
-found in `preparation/part2/DOMToTree.html` into an HTML-file.  
+found in `preparation/part2/dom_tree.pdf` into an HTML-file.  
 *Note:* Styling is optional.
 
 ## Calculator
