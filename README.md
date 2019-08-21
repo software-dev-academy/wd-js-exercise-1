@@ -4,7 +4,7 @@
 
 ### 1) HTML -> DOM-tree
 
-Your task is to convert the HTML file `preparation/part1/document.html` to a DOM-tree similar to the one found 
+Your task is to convert the HTML file [`preparation/part1/document.html`](https://github.com/davyie/SDA-js_labs/blob/master/lab1/preparation/part1/document.html) to a DOM-tree similar to the one found 
 [here on W3Schools](https://www.w3schools.com/js/js_htmldom.asp).
  
  *Some tips:*
