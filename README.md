@@ -22,11 +22,11 @@ found in [`preparation/part2/dom_tree.pdf`](https://github.com/davyie/SDA-js_lab
 
 In this task you are to implement the functionality for a simple calculator. You have been given template html and css  
 in the folder [`calculator_template`](https://github.com/davyie/SDA-js_labs/tree/master/lab1/calculator_template) but as you will notice, clicking the buttons does nothing. Your task is to add 
-javascript code so that the buttons do asexpected (like a normal calculator). This will require you to learn how to 
+javascript code so that the buttons do as expected (like a normal calculator). This will require you to learn how to 
 traverse/select elements from the DOM-tree and handle their values. Functionality should be added for all buttons.
 
 *Some tips:*
-- You should let your code run after the DOMContentLoaded event is triggered. See link below. Also, try reasoning about 
+- You should let your code run after the `DOMContentLoaded` event is triggered. See link below. Also, try reasoning about 
 why this is important to do.
 - Pay attention to the classes and/or ids of the elements in the HTML-DOM. They can be useful for selecting elements. 
 Feel free to customize the elements and add your own classes and/or ids.
