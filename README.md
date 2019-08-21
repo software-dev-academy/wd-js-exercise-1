@@ -8,7 +8,7 @@ Your task is to convert the HTML file [`preparation/part1/document.html`](https:
 [here on W3Schools](https://www.w3schools.com/js/js_htmldom.asp).
  
  *Some tips:*
- - Check the lecture about DOM object and make sure you understand it.
+ - Check the lecture about DOM objects and make sure you understand it.
  - If needed read the tutorial in W3School about DOM.
  - Read the HTML file carefully.
  
