@@ -15,13 +15,13 @@ Your task is to convert the HTML file [`preparation/part1/document.html`](https:
 ### 2) DOM-tree -> HTML
 
 As you've managed to convert the HTML to a DOM-tree, you should now be able to do the reverse. Try converting the tree 
-found in `preparation/part2/dom_tree.pdf` into an HTML-file.  
+found in [`preparation/part2/dom_tree.pdf`](https://github.com/davyie/SDA-js_labs/blob/master/lab1/preparation/part2/dom_tree.pdf) into an HTML-file.  
 *Note:* Styling is optional.
 
 ## Calculator
 
 In this task you are to implement the functionality for a simple calculator. You have been given template html and css  
-in the folder `calculator_template` but as you will notice, clicking the buttons does nothing. Your task is to add 
+in the folder [`calculator_template`](https://github.com/davyie/SDA-js_labs/tree/master/lab1/calculator_template) but as you will notice, clicking the buttons does nothing. Your task is to add 
 javascript code so that the buttons do asexpected (like a normal calculator). This will require you to learn how to 
 traverse/select elements from the DOM-tree and handle their values. Functionality should be added for all buttons.
 
