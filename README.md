@@ -9,7 +9,7 @@ Your task is to convert the HTML file [`preparation/part1/document.html`](https:
  
  *Some tips:*
  - Check the lecture about DOM objects and make sure you understand it.
- - If needed read the tutorial in W3School about DOM.
+ - If needed, read the tutorial in W3School about DOM.
  - Read the HTML file carefully.
  
 ### 2) DOM-tree -> HTML
