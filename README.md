@@ -4,24 +4,25 @@
 
 ### 1) HTML -> DOM-tree
 
-Your task is to convert the HTML file [`preparation/part1/document.html`](https://github.com/davyie/SDA-js_labs/blob/master/lab1/preparation/part1/document.html) to a DOM-tree similar to the one found 
+Your task is to convert the HTML file `preparation/part1/document.html` to a DOM-tree similar to the one found 
 [here on W3Schools](https://www.w3schools.com/js/js_htmldom.asp).
  
  *Some tips:*
- - Check the lecture about DOM objects and make sure you understand it.
- - If needed, read the tutorial in W3School about DOM.
+- Make sure you've read up on the DOM
+   - [Introduction to DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
+   - [The HTML DOM](https://www.w3schools.com/js/js_htmldom.asp)
  - Read the HTML file carefully.
  
 ### 2) DOM-tree -> HTML
 
 As you've managed to convert the HTML to a DOM-tree, you should now be able to do the reverse. Try converting the tree 
-found in [`preparation/part2/dom_tree.pdf`](https://github.com/davyie/SDA-js_labs/blob/master/lab1/preparation/part2/dom_tree.pdf) into an HTML-file.  
+found in `preparation/part2/dom_tree.pdf` into an HTML-file.  
 *Note:* Styling is optional.
 
 ## Calculator
 
 In this task you are to implement the functionality for a simple calculator. You have been given template html and css  
-in the folder [`calculator_template`](https://github.com/davyie/SDA-js_labs/tree/master/lab1/calculator_template) but as you will notice, clicking the buttons does nothing. Your task is to add 
+in the folder `calculator_template` but as you will notice, clicking the buttons does nothing. Your task is to add 
 javascript code so that the buttons do as expected (like a normal calculator). This will require you to learn how to 
 traverse/select elements from the DOM-tree and handle their values. Functionality should be added for all buttons.
 
